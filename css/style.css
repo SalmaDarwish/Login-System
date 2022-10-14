@@ -1,0 +1,38 @@
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.login-box , .signup-box{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+h1{
+    color: #17a2b8;
+    font-size: 2.5rem;
+
+}
+
+input{
+    color: #fff !important;
+    background-color: transparent !important;
+}
+::placeholder{
+    color: rgba(255, 255, 255,0.7) !important;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.green{
+    color: #28a745 !important;
+}
+.red{
+    color: #dc3545 !important;
+}
+.shadowx{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.welcome-box{
+margin-top: 150px !important;
+}
